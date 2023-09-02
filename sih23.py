@@ -198,7 +198,7 @@ problem_statements_dict = {
 }
 
 # Initialize the OpenAI API client with your API key
-openai.api_key = "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"
+openai.api_key = "insert your openAI key here"
 
 # Specify the GPT-3 engine (e.g., "text-davinci-002" is a common choice)
 engine = "text-davinci-002"
